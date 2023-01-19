@@ -1,0 +1,14 @@
+WHERE
+it specifies acondition while feteching data from aselected table
+
+GROUP BY
+it is used to group raws that have the same values
+
+DISTINCT
+it is used to return different values in atable
+
+SELECT
+it is used to select data in adatabase
+
+ORDER BY
+it returns the sorted data

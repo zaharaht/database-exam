@@ -1,0 +1,38 @@
+question1
+(a)Adatabase is acollection of organised related data
+
+(b)database Management system is acollection of software systems used to store, retrieve, and run queries on data
+
+
+ (c)sql is programming language that is used to manage  databases and perform various operations on the data
+
+ (d)foreign key is one that matches with the candidate key
+
+ (e) primary key is acolumn that uniquely identifies arow in atable
+
+
+ question2
+it  allows to edit, add ,update and delete data
+it Minimises data redundancy
+there is improved data security
+ther are limited errors
+there are limited costs
+
+question3
+microsoft excel
+oracle
+mongo db
+maria dbmysql
+
+question4
+one to one
+this is atype of relationship with adegree
+one to many
+ One-to-many relationships associate one record in one table with many records in the other table
+many to many
+it is arelationship between several instances
+
+
+
+
+
